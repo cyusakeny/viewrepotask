@@ -1,0 +1,26 @@
+.container {
+  padding-left: 31%;
+  margin-top: 3px;
+  border-bottom: 1px solid #d3d0d9;
+  padding-bottom: 20px;
+}
+.cspan {
+  margin-left: 60px;
+}
+.cspanicon {
+  font-size: 17px;
+  position: relative;
+  top: 3px;
+  right: 4px;
+  color: #9c9b9e;
+}
+.currentspan {
+  border-bottom: 3px solid red;
+  padding-bottom: 17px;
+}
+.cspan2 {
+  background-color: #717073;
+  border-radius: 13px;
+  padding-right: 5px;
+  padding-left: 5px;
+}

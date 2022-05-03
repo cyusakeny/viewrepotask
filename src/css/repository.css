@@ -1,0 +1,80 @@
+.container {
+  position: relative;
+  max-width: 76%;
+}
+h2 {
+  color: #0649cf;
+}
+.status {
+  font-size: 15px;
+  font-weight: normal;
+  border-radius: 16px;
+  border: 1px solid #edf0ef;
+  background-color: #edf0ef;
+  padding: 4px;
+  color: black;
+  margin-left: 8px;
+}
+.forked {
+  font-size: 15px;
+  color: #414242;
+  margin-top: -15px;
+}
+.description {
+  font-size: 17px;
+  color: #414242;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.line {
+  height: 1px;
+  background-color: #62c955;
+  border: none;
+  position: absolute;
+  top: 62px;
+  right: 0px;
+  width: 142px;
+}
+.button1 {
+  padding-left: 22px;
+  padding-right: 6px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 14px;
+  border-radius: 3px;
+  border-top-right-radius: 0px;
+  border: 1px solid #d1d6d0;
+  border-bottom-right-radius: 0px;
+}
+.button2 {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 14px;
+  border-radius: 3px;
+  border-top-left-radius: 0px;
+  border: 1px solid #d1d6d0;
+  border-bottom-left-radius: 0px;
+}
+.details {
+  font-size: 17px;
+  color: #414242;
+}
+.buttons {
+  position: absolute;
+  top: 12px;
+  right: 0px;
+  margin-top: 4px;
+}
+.staricon {
+  position: relative;
+  top: 2px;
+}
+.icons {
+  position: relative;
+  top: 3px;
+}
+.dspan {
+  padding-right: 45px;
+}

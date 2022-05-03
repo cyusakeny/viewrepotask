@@ -1,0 +1,25 @@
+.container {
+  margin-left: 24%;
+}
+.inputfield {
+  width: 62%;
+  height: 25px;
+  border-radius: 3px;
+  border: 1px solid #98959e;
+  outline: none;
+}
+button {
+  margin-left: 12px;
+  height: 29px;
+  font-weight: bold;
+  padding-right: 7px;
+  padding-left: 7px;
+  border-radius: 6px;
+  border: 1px solid #edf0ef;
+  background-color: #edf0ef;
+}
+.faicon {
+  margin-left: 4px;
+  position: relative;
+  bottom: 1.3px;
+}

@@ -1,0 +1,78 @@
+.container {
+  margin-left: 120px;
+  position: relative;
+  margin-top: 10px;
+}
+.username {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 32px;
+  color: #292723;
+  position: absolute;
+  bottom: 362px;
+  max-width: 250px;
+  overflow: hidden;
+}
+.name {
+  font-family: sans-serif;
+  font-size: 19px;
+  color: #999894;
+  max-width: 260px;
+  max-height: 30px;
+  overflow: hidden;
+}
+.button {
+  color: black;
+  background-color: #edeadd;
+  width: 270px;
+  border-radius: 7px;
+  height: 30px;
+  border: none;
+}
+.button:hover {
+  background-color: #53b7f5;
+  color: #ffffff;
+}
+.quote {
+  font-family: sans-serif;
+  font-size: 19px;
+  color: #292723;
+  max-width: 290px;
+  max-height: 30px;
+  overflow: hidden;
+}
+.followers {
+  font-size: 14px;
+  color: #999894;
+  position: relative;
+}
+span {
+  padding-left: 15px;
+  padding-right: 5px;
+  color: #292723;
+}
+.profile {
+  color: #98959e;
+  margin-top: 2px;
+  border-bottom: 1px solid #98959e;
+  width: 270px;
+}
+.usericon {
+  top: 0.5px;
+  left: -2.4px;
+  position: absolute;
+}
+.profileicon {
+  font-size: 17px;
+  position: relative;
+  top: 3px;
+}
+.achievementheader {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 27px;
+  color: #292723;
+}
+.achievements {
+  margin-bottom: 16px;
+}
