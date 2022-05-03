@@ -1,7 +1,5 @@
 .hcontainer {
-  overflow-x: hidden;
   position: relative;
-  background-color: pink;
 }
 .hnav {
   width: 100%;
@@ -10,8 +8,7 @@
 .hprofile {
   margin-left: 5%;
   margin-top: -6%;
-  position: sticky;
-  top: 0;
+  width: 43%;
 }
 .repos {
   position: absolute;

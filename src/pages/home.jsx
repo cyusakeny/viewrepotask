@@ -27,6 +27,8 @@ class Home extends Component {
           <Repository />
           <Repository />
           <Repository />
+          <Repository />
+          <Repository />
         </div>
       </div>
     );
