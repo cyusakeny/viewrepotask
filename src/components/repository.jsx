@@ -6,7 +6,7 @@ import { FaSortDown } from "react-icons/fa";
 import "../css/repository.css";
 const Repository = () => {
   return (
-    <div className="container">
+    <div className="rcontainer">
       <h2>
         Flutter <span className="status">public</span>
       </h2>

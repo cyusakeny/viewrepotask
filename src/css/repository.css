@@ -1,6 +1,8 @@
-.container {
+.rcontainer {
   position: relative;
-  max-width: 76%;
+  width: 127%;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #d9dedb;
 }
 h2 {
   color: #0649cf;

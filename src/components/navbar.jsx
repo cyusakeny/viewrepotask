@@ -7,7 +7,7 @@ import { FiPackage } from "react-icons/fi";
 import { BiStar } from "react-icons/bi";
 const Navbar = () => {
   return (
-    <div className="container">
+    <div className="ncontainer">
       <span className="cspan">
         <BsBook className="cspanicon" />
         Overview

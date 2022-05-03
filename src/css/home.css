@@ -1,0 +1,21 @@
+.hcontainer {
+  overflow-x: hidden;
+  position: relative;
+  background-color: pink;
+}
+.hnav {
+  width: 100%;
+  margin-top: 13px;
+}
+.hprofile {
+  margin-left: 5%;
+  margin-top: -6%;
+  position: sticky;
+  top: 0;
+}
+.repos {
+  position: absolute;
+  top: 15%;
+  left: 29.6%;
+  margin-bottom: 1%;
+}

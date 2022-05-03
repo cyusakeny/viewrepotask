@@ -1,11 +1,11 @@
-.container {
-  padding-left: 31%;
+.ncontainer {
+  padding-left: 27%;
   margin-top: 3px;
   border-bottom: 1px solid #d3d0d9;
   padding-bottom: 20px;
 }
 .cspan {
-  margin-left: 60px;
+  margin-left: 40px;
 }
 .cspanicon {
   font-size: 17px;

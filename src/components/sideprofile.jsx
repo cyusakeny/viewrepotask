@@ -7,7 +7,7 @@ import { GoLocation } from "react-icons/go";
 import { AiOutlineMail, AiOutlineTwitter } from "react-icons/ai";
 const SideProfile = (_props) => {
   return (
-    <div className="container">
+    <div className="sidecontainer">
       <Avatar
         sx={{ width: "300px", height: "280px" }}
         alt="Profile pic"

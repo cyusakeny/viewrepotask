@@ -3,7 +3,7 @@ import { FaSortDown } from "react-icons/fa";
 import "../css/search.css";
 const Search = () => {
   return (
-    <div className="container">
+    <div className="scontainer">
       <input
         type="text"
         className="inputfield"
