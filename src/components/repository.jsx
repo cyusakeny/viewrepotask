@@ -4,11 +4,15 @@ import { BiGitRepoForked, BiStar } from "react-icons/bi";
 import { GoLaw } from "react-icons/go";
 import { FaSortDown } from "react-icons/fa";
 import "../css/repository.css";
-const Repository = () => {
+const Repository = (props) => {
+  let status = "private";
+  if (!props.isPrivate) {
+    status = "public";
+  }
   return (
-    <div className="rcontainer">
+    <div className="rcontainer" key={props.keys}>
       <h2>
-        Flutter <span className="status">public</span>
+        {props.name} <span className="status">{status}</span>
       </h2>
       <p className="forked">Forked from flutter/flutter</p>
       <p className="description">
